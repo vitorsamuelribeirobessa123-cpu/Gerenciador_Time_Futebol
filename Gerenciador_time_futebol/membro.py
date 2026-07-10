@@ -1,12 +1,11 @@
 from abc import ABC, abstractmethod
-
+'''Importa-se os métodos abstratos'''
 class Membro(ABC):
-
+    '''Os atributos são instanciados e sofrem name mangling (adiciona-se o nome da classe no do atributo.), mas são recuperados pelos getters'''
     def __init__(self, nome, idade, salario):
         self.__nome = nome
         self.__idade = idade
         self.__salario = salario
-
     def get_nome(self):
         return self.__nome
 
@@ -24,7 +23,7 @@ class Membro(ABC):
 
     def set_salario(self, salario):
         self.__salario = salario
-
+    '''É feito um contrato que consiste em usar, obrigatoriamente, o método calcular_salario.'''
     @abstractmethod
     def calcular_salario(self):
         pass
