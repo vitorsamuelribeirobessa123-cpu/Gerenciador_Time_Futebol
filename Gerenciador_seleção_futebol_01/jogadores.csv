@@ -1,0 +1,26 @@
+nome,idade,salario,gols,posicao,status
+Alisson,33,5000000,0,Goleiro,Titular
+Ederson,32,3600000,0,Goleiro,Reserva
+Weverton,38,900000,0,Goleiro,Reserva
+Marquinhos,32,7000000,0,Zagueiro,Titular
+Gabriel Magalhães,28,4000500,1,Zagueiro,Titular
+Bremer,29,3000000,0,Zagueiro,Reserva
+Léo Pereira,30,800000,0,Zagueiro,Reserva
+Danilo,34,6000000,0,Lateral Direito,Reserva
+Wesley,22,1200000,0,Lateral Direito,Titular
+Alex Sandro,35,1501000,2,Lateral Esquerdo,Reserva
+Douglas Santos,32,6000000,0,Lateral Esquerdo,Titular
+Casemiro,34,9401000,2,Volante,Titular
+Bruno Guimarães,28,50000000,0,Volante,Titular
+Éderson,27,4000000,0,Volante,Reserva
+Fabinho,32,6000000,0,Volante,Reserva
+Lucas Paquetá,28,4002000,4,Meia,Titular
+Danilo,24,700000,0,Meia,Reserva
+Vinícius Júnior,25,12005000,10,Atacante,Titular
+Rayan,20,3400000,0,Atacante,Titular
+Neymar,34,6040500,81,Atacante,Titular
+Gabriel Martinelli,25,4001500,3,Atacante,Reserva
+Endrick,19,3501000,2,Atacante,Reserva
+Matheus Cunha,27,2517500,35,Centroavante,Titular
+Igor Thiago,25,2212500,25,Centroavante,Reserva
+Luiz Henrique,25,2015000,30,Atacante,Reserva
